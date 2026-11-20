@@ -1,5 +1,12 @@
 # Insert Coin · novedades
 
+## 0.3.3 · La colección de clásicos (20/11/2026 · Beta)
+- **✨ Nuevo:** **🏛️ Colección de clásicos**: más de 230 juegos que hicieron historia, de Space Invaders a Baldur's Gate 3. Los que aún no tienes salen en tu biblioteca **apagados y sin portada**, con un 🔒; en cuanto consigas uno, aparece con su portada y su ✓. El panel dice cuántos llevas y desde la ficha puedes añadirlo a **deseados** o buscarlo en Steam.
+- **✨ Nuevo:** Cada clásico tiene su **Historia**, escrita para Insert Coin: qué cambió, quién lo hizo y por qué se recuerda.
+- **✨ Nuevo:** **Remakes, remasterizaciones y reinvenciones** (Dead Space, Resident Evil 4, Tomb Raider, Age of Empires II: Definitive Edition…) comparten la historia del original y suman **la suya propia** justo debajo. Y cuentan para la colección: tener el remake es tener el clásico.
+- **✨ Nuevo:** Insignia **GOTY** en la carta y la ficha de los ganadores del Juego del Año, y medalla de **Coleccionista de clásicos** en tu perfil.
+- **⬆️ Mejora:** Los textos de las fichas ya no se copian de la Wikipedia (solo se usa para enlazar el juego con sus datos de Wikidata: año, géneros y estudio).
+
 ## 0.3.2 · El buzón llega de verdad (20/11/2026 · Beta)
 - **✨ Nuevo:** El **buzón de sugerencias** ahora manda tus ideas y avisos de fallo directamente al creador de Insert Coin, sin que tengas que poner tu correo. También se guarda una copia en tu PC.
 - **⬆️ Mejora:** Los **textos legales** pasan a la versión 3 (explican qué se envía con el buzón y añaden el correo de contacto): se piden aceptar una vez más.

@@ -98,8 +98,8 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 
 | | |
 |---|---|
-| 🏆 **Logros** de Steam y GOG con su progreso | 🏛️ **Clásicos**: los juegos que hicieron historia |
-| 📖 **Fichas completas**: descripción, capturas, vídeos e historia del juego | 🗣️ **Qué dice el fandom**: el resumen de lo que opinan jugadores y crítica |
+| 🏆 **Logros** de Steam y GOG con su progreso | 🏛️ **Colección de clásicos**: más de 230 juegos que hicieron historia, cada uno con su historia (y la de su remake); los que te faltan salen apagados hasta que los consigues |
+| 📖 **Fichas completas**: descripción, capturas, vídeos y la insignia **GOTY** de los Juegos del Año | 🗣️ **Qué dice el fandom**: el resumen de lo que opinan jugadores y crítica |
 | 🔍 **Filtros de todo tipo**: tienda, género, cooperativo, PvP, sin estrenar, nota… | ✍️ **Tu nivel y tu crítica** para cada juego |
 | 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos, con **análisis de tu equipo** |
 | ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📰 **Novedades** de cada versión dentro de la app |
