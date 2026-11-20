@@ -1,5 +1,9 @@
 # Insert Coin · novedades
 
+## 0.3.2 · El buzón llega de verdad (20/11/2026 · Beta)
+- **✨ Nuevo:** El **buzón de sugerencias** ahora manda tus ideas y avisos de fallo directamente al creador de Insert Coin, sin que tengas que poner tu correo. También se guarda una copia en tu PC.
+- **⬆️ Mejora:** Los **textos legales** pasan a la versión 3 (explican qué se envía con el buzón y añaden el correo de contacto): se piden aceptar una vez más.
+
 ## 0.3.1 · Barra ordenada y precios más claros (20/11/2026 · Beta)
 - **⬆️ Mejora:** **Modo sofá**: la ayuda de abajo dibuja los botones de tu mando **con sus colores**, como en el mando real (A verde, B roja, X azul, Y amarilla en Xbox; ✕ ○ □ △ en PlayStation; B A Y X en Nintendo), y dice también cómo moverse.
 - **⬆️ Mejora:** La **barra de arriba**, reorganizada en dos filas: arriba el buscador y lo de sistema (Escanear, Sugerencias, Legal y el menú 🪙); debajo, las funciones por grupos (**Descubre**: ¿Qué juego?, Tirada y Modo sofá · **Lo tuyo**: Perfil, Deseados y Ofertas · Añadir juego) y a la derecha el orden y la vista.
