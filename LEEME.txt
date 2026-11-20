@@ -1,17 +1,25 @@
 ==========================================================
   INSERT COIN · tu biblioteca de juegos en un mismo sitio
+  Versión BETA (de prueba): gratis, y puede tener fallos.
 ==========================================================
 
 QUÉ ES
 ------
-Insert Coin junta en un solo sitio todos tus juegos de Steam, Epic Games,
-GOG (con EA y Ubisoft a través de GOG Galaxy), Battle.net y Riot.
+Insert Coin junta en un solo sitio todos tus juegos de Steam, Epic Games, GOG,
+EA, Ubisoft, Battle.net y Riot (y también Amazon Games, itch.io, Rockstar, la
+app de Xbox, Humble y Legacy Games, en prueba).
 
 Porque a todos nos da pereza ir abriendo cada tienda para acordarnos de qué
 tenemos y dónde, aquí los ves todos juntos: con su portada, tus horas, tus
 logros, el año, lo que opina la gente de cada uno… Si tienes el mismo juego en
 varias tiendas, te lo junta en una sola carta. Y si no sabes a qué jugar, el
 test de ánimo o la tirada del dado te echan una mano.
+
+Y desde la propia app puedes JUGAR (▶) a los que tienes instalados o
+INSTALAR (⬇) los que no: Insert Coin se lo pide a su tienda oficial, como si lo
+hicieras tú desde ella (la tienda comprueba que es tuyo, cuenta tus horas y
+guarda tus partidas). En «Tu perfil de jugador» ves qué tipo de juegos juegas
+y qué título te has ganado.
 
 CÓMO INSTALARLA
 ---------------
@@ -48,6 +56,17 @@ LA PRIMERA VEZ
   progreso en un panel pequeño que puedes mover, minimizar o cerrar.
 - Después se actualiza sola al abrirla y cada hora, o cuando pulses «Escanear».
 
+ACTUALIZACIONES
+---------------
+- Desde la versión 0.2.0, Insert Coin mira sola si hay versión nueva y te avisa
+  (un punto amarillo en el botón de la moneda, arriba). Desde ese menú, en
+  «Actualizaciones», la descargas y la instalas: la app se cierra, se actualiza
+  y vuelve a abrirse. Tu biblioteca, tus notas y tus claves se quedan como
+  están. Nunca se instala nada sin que lo pulses tú.
+- Si tienes la 0.1.0, instala esta versión a mano una vez (encima de la otra,
+  sin desinstalar); a partir de ahí, ya se actualiza sola.
+- En el mismo menú, en «Novedades», tienes lo que trae cada versión.
+
 TUS DATOS
 ---------
 - Todo se lee en tu PC y SOLO LEYENDO: nunca se cambia nada de tus launchers.
@@ -61,8 +80,8 @@ CLAVES OPCIONALES (RAWG y SteamGridDB)
 --------------------------------------
 Sin ellas la app funciona. Con ellas (son gratis) consigues más notas de
 jugadores y más portadas, sobre todo de juegos que no están en Steam. Dentro de
-la app, en «Claves para más datos», tienes los pasos para sacarlas. Se guardan
-cifradas en tu PC.
+la app, en el menú de la moneda (arriba) → «Ajustes», tienes los pasos para
+sacarlas y dónde pegarlas. Se guardan cifradas en tu PC.
 
 LEGAL
 -----

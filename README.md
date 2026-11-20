@@ -1,35 +1,149 @@
-<p align="center"><img src="icono.png" width="128" alt="Insert Coin"></p>
+<div align="center">
 
-<h1 align="center">Insert Coin</h1>
-<p align="center"><b>Toda tu biblioteca de juegos en un mismo sitio.</b><br>Steam · Epic Games · GOG · EA · Ubisoft · Battle.net · Riot</p>
+<img src="icono.png" width="140" alt="Insert Coin">
+
+# INSERT COIN
+
+### Todos tus juegos. Una sola biblioteca. Cero excusas para no jugar.
+
+**Steam · Epic Games · GOG · EA · Ubisoft · Battle.net · Riot · Amazon · itch.io · Rockstar · Xbox · Humble · Legacy Games**
+
+[![Descargar](https://img.shields.io/badge/⬇_DESCARGAR-gratis-ffe600?style=for-the-badge&labelColor=0b0618)](../../releases/latest)
+[![Versión](https://img.shields.io/github/v/release/JesusJacky/InsertCoin-descargas?style=for-the-badge&label=versión&color=ff2bd6&labelColor=0b0618)](../../releases/latest)
+![Beta](https://img.shields.io/badge/fase-BETA-4cc9f0?style=for-the-badge&labelColor=0b0618)
+![Windows](https://img.shields.io/badge/Windows-10_/_11-3ddc97?style=for-the-badge&labelColor=0b0618)
+![Linux y Mac](https://img.shields.io/badge/Linux_·_Mac-prueba-9b8ec4?style=for-the-badge&labelColor=0b0618)
+
+<img src="capturas/1-biblioteca.png" alt="La biblioteca de Insert Coin" width="900">
+
+</div>
 
 ---
 
-Porque a todos nos da pereza ir abriendo cada tienda para acordarnos de qué tenemos y dónde, **Insert Coin** te los enseña todos juntos: con su portada, tus horas, tus logros, el año, lo que opina la gente de cada uno… Si tienes el mismo juego en varias tiendas, te lo junta en una sola carta. Y si no sabes a qué jugar, el **test de ánimo** o la **tirada del dado** te echan una mano.
+## 🕹️ ¿Qué es?
 
-## Descargar
+¿Cuántas tiendas de juegos tienes instaladas? ¿Cinco? ¿Seis? ¿Y cuántas veces has comprado en una oferta un juego **que ya tenías** en otra?
 
-Ve a **[Publicaciones (Releases)](../../releases/latest)** y descarga el de tu sistema:
+**Insert Coin** lee tus launchers y junta **todos tus juegos en una sola biblioteca**, con su portada, tus horas, tus logros, el año, lo que opina la gente… Si tienes el mismo juego en varias tiendas, sale **una sola vez**. Y desde ahí mismo **lo juegas o lo instalas**.
 
-| Sistema | Archivo |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ▶️ Juega e instala sin abrir mil tiendas
+Pulsa **Jugar** y Insert Coin le pide a su tienda oficial que lo abra. ¿No está instalado? **Instalar** te lleva directo a su instalación. La tienda sigue haciendo su trabajo: comprueba que es tuyo, cuenta tus horas y guarda tus partidas.
+
+</td>
+<td width="50%"><img src="capturas/2-ficha-jugar.png" alt="Ficha de un juego con el botón Jugar"></td>
+</tr>
+<tr>
+<td width="50%"><img src="capturas/4-tirada-dado.png" alt="Tirada del dado"></td>
+<td width="50%" valign="top">
+
+### 🎲 ¿No sabes a qué jugar? Que decida el dado
+Tira un **D20** y te recomienda un juego de tu biblioteca: un **20 crítico** es un juegazo; una **pifia**, uno de esos que compraste y nunca estrenaste. O haz el **test de ánimo** y te dice qué te apetece de verdad.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💀 Tu perfil de jugador
+¿Qué juegas de verdad? Porcentaje de tus horas por tipo de juego, tus más jugados, lo último que has jugado… y **un título que te has ganado**: *«Eres un estratega»*, *«¡Wololo!»*, *«Cada muerte es un nuevo comienzo»*…
+
+</td>
+<td width="50%"><img src="capturas/3-perfil-jugador.png" alt="Perfil de jugador"></td>
+</tr>
+<tr>
+<td width="50%"><img src="capturas/5-test.png" alt="Test ¿Qué juego?"></td>
+<td width="50%" valign="top">
+
+### 🧠 Test «¿Qué juego?»
+Unas preguntas rápidas sobre cómo estás hoy (¿cansado?, ¿con ganas de pensar?, ¿un rato corto?) y te saca los juegos de tu biblioteca que mejor encajan.
+
+</td>
+</tr>
+</table>
+
+## 🎨 21 estilos para tu biblioteca
+
+Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana de los 90, survival horror… Cambia el aspecto entero con un clic.
+
+<div align="center">
+<img src="capturas/7-estilo-cyberpunk.png" width="32%" alt="Estilo cyberpunk">
+<img src="capturas/8-estilo-jrpg.png" width="32%" alt="Estilo JRPG">
+<img src="capturas/9-estilo-ventana95.png" width="32%" alt="Estilo Ventana 95">
+</div>
+
+## ✨ Y además
+
+| | |
 |---|---|
-| **Windows** 10 / 11 | `Insert Coin - Instalador X.Y.Z.exe` |
-| Linux (prueba) | `Insert-Coin-X.Y.Z-Linux.AppImage` |
-| Mac (prueba) | `Insert-Coin-X.Y.Z-Mac.dmg` |
+| 🏆 **Logros** de Steam y GOG con su progreso | 🏛️ **Clásicos**: los juegos que hicieron historia |
+| 📖 **Fichas completas**: descripción, capturas, vídeos e historia del juego | 🗣️ **Qué dice el fandom**: el resumen de lo que opinan jugadores y crítica |
+| 🔍 **Filtros de todo tipo**: tienda, género, cooperativo, PvP, sin estrenar, nota… | ✍️ **Tu nivel y tu crítica** para cada juego |
+| 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos |
+| ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📰 **Novedades** de cada versión dentro de la app |
 
-> **Aviso normal en Windows:** puede salir «Windows protegió su PC». Es porque la app no tiene un certificado de firma (cuesta dinero cada año y esto es un proyecto personal y gratuito), no porque tenga nada malo. Pulsa **«Más información» → «Ejecutar de todos modos»**.
+## 🔒 Tus datos son tuyos
 
-Las instrucciones completas (también las de Linux y Mac) están en el **[LEEME](LEEME.txt)**, y lo que trae cada versión en **[NOVEDADES](NOVEDADES.md)**.
+- Tu biblioteca se lee **en tu PC y solo leyendo**: Insert Coin **nunca cambia nada** de tus launchers.
+- **Sin cuentas, sin publicidad, sin analítica.** No se envían tus datos a nadie: para completar cada juego solo se consulta su nombre en servicios públicos (tienda de Steam, Wikipedia, Wikidata…).
 
-## Tus datos
+## ⬇️ Descargar
 
-- Tu biblioteca se lee **en tu PC y solo leyendo**: nunca se cambia nada de tus launchers.
-- **No se envían tus datos a nadie.** Para completar cada juego solo se consulta su nombre en servicios públicos (tienda de Steam, Wikipedia, Wikidata…).
+Ve a **[la última versión](../../releases/latest)** y descarga la de tu sistema:
 
-## Sobre este repositorio
+| Sistema | Archivo | |
+|---|---|---|
+| 🪟 **Windows 10 / 11** (64 bits) | `Insert Coin - Instalador X.Y.Z (Windows)` | ✅ Recomendada |
+| 🐧 Linux | `Insert-Coin-X.Y.Z-Linux.AppImage` | 🧪 Prueba (solo lee Steam) |
+| 🍎 Mac (chip Apple) | `Insert-Coin-X.Y.Z-Mac.dmg` | 🧪 Prueba (solo lee Steam) |
 
-Aquí están los **instaladores** y la información pública de Insert Coin. El código de la aplicación no es público.
+> [!NOTE]
+> **¿Sale «Windows protegió su PC»?** Es normal: la app no tiene un certificado de firma (cuesta dinero cada año y esto es un proyecto personal y gratuito), no porque tenga nada malo. Pulsa **«Más información» → «Ejecutar de todos modos»**.
 
+Instrucciones completas (también Linux y Mac) en el **[LEEME](LEEME.txt)** · Qué trae cada versión en **[NOVEDADES](NOVEDADES.md)**.
+
+## ❓ Preguntas frecuentes
+
+<details><summary><b>¿Es gratis?</b></summary>
+
+Sí. Es una **beta**: una versión de prueba, gratis, que puede tener algún fallo. Si ves uno, cuéntalo desde el botón «💬 Sugerencias» de la app.
+</details>
+
+<details><summary><b>¿Necesito una cuenta o dar mis contraseñas?</b></summary>
+
+No. Insert Coin no pide cuentas ni contraseñas: lee lo que tus launchers ya guardan en tu PC.
+</details>
+
+<details><summary><b>¿Puede romper algo de mis tiendas o de mis juegos?</b></summary>
+
+No. Solo **lee** sus archivos, nunca los cambia. Y para jugar o instalar, se lo pide a la propia tienda con sus enlaces oficiales.
+</details>
+
+<details><summary><b>¿Por qué falta algún juego?</b></summary>
+
+Algunas tiendas no guardan en el PC todo lo que tienes comprado (Epic, Battle.net o Xbox, por ejemplo). Los que falten se pueden **añadir a mano** y los que sobren, **ocultar**.
+</details>
+
+<details><summary><b>¿Funciona en un PC antiguo?</b></summary>
+
+Necesita **Windows 10 u 11 de 64 bits**. En equipos modestos activa el **Modo ligero** (menú 🪙 → Ajustes), que quita los efectos que más cargan; en PCs muy justos se activa solo.
+</details>
+
+<details><summary><b>¿Cómo se actualiza?</b></summary>
+
+Sola: te avisa cuando hay versión nueva (punto amarillo en el botón 🪙) y la instalas con un clic. Tu biblioteca y tus ajustes se quedan como están.
+</details>
+
+---
+
+<div align="center">
+
+Aquí están los **instaladores** y la información pública de Insert Coin; el código de la aplicación no es público.<br>
 Insert Coin es gratis y se ofrece «tal cual». Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; Insert Coin no está afiliada a ninguna.
 
-Un proyecto personal de **JesusJacky**.
+**Un proyecto personal de JesusJacky** · 🪙 *Inserta una moneda para continuar…*
+
+</div>
