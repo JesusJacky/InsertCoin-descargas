@@ -65,6 +65,16 @@ Unas preguntas rápidas sobre cómo estás hoy (¿cansado?, ¿con ganas de pensa
 </tr>
 </table>
 
+## 🛋️ Modo sofá
+
+Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juegos en filas («Seguir jugando», «Instalados», «Para estrenar»…), el elegido en grande con sus capturas de fondo y **sonidos retro**. Funciona con mandos de Xbox y PlayStation (o con el teclado). Y si lo dejas quieto… *INSERT COIN*.
+
+<div align="center"><img src="capturas/10-modo-sofa.png" width="900" alt="Modo sofá"></div>
+
+## ⭐ Deseados y 🏷️ ofertas
+
+Apunta los juegos que quieres y Insert Coin te avisa cuando **bajan de precio** o se pueden conseguir **gratis**. Además, cada día: los **juegos gratis** del momento en PC y los que ya tienes que están tirados de precio en otra tienda.
+
 ## 🎨 21 estilos para tu biblioteca
 
 Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana de los 90, survival horror… Cambia el aspecto entero con un clic.
@@ -82,13 +92,27 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 | 🏆 **Logros** de Steam y GOG con su progreso | 🏛️ **Clásicos**: los juegos que hicieron historia |
 | 📖 **Fichas completas**: descripción, capturas, vídeos e historia del juego | 🗣️ **Qué dice el fandom**: el resumen de lo que opinan jugadores y crítica |
 | 🔍 **Filtros de todo tipo**: tienda, género, cooperativo, PvP, sin estrenar, nota… | ✍️ **Tu nivel y tu crítica** para cada juego |
-| 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos |
+| 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos, con **análisis de tu equipo** |
 | ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📰 **Novedades** de cada versión dentro de la app |
 
 ## 🔒 Tus datos son tuyos
 
 - Tu biblioteca se lee **en tu PC y solo leyendo**: Insert Coin **nunca cambia nada** de tus launchers.
 - **Sin cuentas, sin publicidad, sin analítica.** No se envían tus datos a nadie: para completar cada juego solo se consulta su nombre en servicios públicos (tienda de Steam, Wikipedia, Wikidata…).
+
+## 💻 Requisitos
+
+| | Mínimos | Recomendados |
+|---|---|---|
+| **Sistema** | Windows 10 (64 bits) | Windows 10 u 11 (64 bits) |
+| **Procesador** | 2 núcleos (de 2010 en adelante, p. ej. Intel Core i3 de 1.ª generación) | 4 núcleos o más |
+| **Memoria** | 4 GB | 8 GB |
+| **Disco** | 500 MB libres | 500 MB libres en un SSD |
+| **Pantalla** | 1280 × 720 | 1920 × 1080 |
+| **Internet** | Para completar los datos de los juegos y buscar ofertas | Lo mismo |
+
+> En equipos justos, activa el **Modo ligero** (menú 🪙 → Ajustes); el botón **«Analizar mi equipo»** te dice si te conviene.
+> **Linux** (prueba): 64 bits, Ubuntu 22.04 o similar. **Mac** (prueba): macOS 12 o más nuevo, con chip de Apple (M1 o posterior).
 
 ## ⬇️ Descargar
 
@@ -129,7 +153,7 @@ Algunas tiendas no guardan en el PC todo lo que tienes comprado (Epic, Battle.ne
 
 <details><summary><b>¿Funciona en un PC antiguo?</b></summary>
 
-Necesita **Windows 10 u 11 de 64 bits**. En equipos modestos activa el **Modo ligero** (menú 🪙 → Ajustes), que quita los efectos que más cargan; en PCs muy justos se activa solo.
+Sí, desde un **Intel Core i3 de 1.ª generación con 4 GB** de memoria, con **Windows 10 u 11 de 64 bits** (mira los requisitos). En equipos modestos activa el **Modo ligero** (menú 🪙 → Ajustes): quita solo los efectos que más cargan. El botón «Analizar mi equipo» te dice si te conviene; en PCs muy justos se activa solo.
 </details>
 
 <details><summary><b>¿Cómo se actualiza?</b></summary>

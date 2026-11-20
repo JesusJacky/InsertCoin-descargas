@@ -21,6 +21,22 @@ hicieras tú desde ella (la tienda comprueba que es tuyo, cuenta tus horas y
 guarda tus partidas). En «Tu perfil de jugador» ves qué tipo de juegos juegas
 y qué título te has ganado.
 
+Además: lista de DESEADOS (te avisa si bajan de precio o se regalan), OFERTAS
+(juegos gratis ahora mismo) y MODO SOFÁ (pantalla completa con mando y
+sonidos, para jugar desde el sofá).
+
+REQUISITOS
+----------
+Mínimos:      Windows 10 de 64 bits · procesador de 2 núcleos (cualquiera de
+              2010 en adelante, por ejemplo un Intel Core i3 de 1ª generación)
+              · 4 GB de memoria · 500 MB libres · pantalla de 1280×720 ·
+              conexión a internet para completar los datos de los juegos.
+              En equipos así, activa el «Modo ligero» (menú 🪙 → Ajustes).
+Recomendados: Windows 10 u 11 de 64 bits · procesador de 4 núcleos o más ·
+              8 GB de memoria · disco SSD · pantalla de 1920×1080.
+Linux (prueba): 64 bits, Ubuntu 22.04 o similar. Mac (prueba): macOS 12 o
+              más nuevo, con chip de Apple (M1 o posterior).
+
 CÓMO INSTALARLA
 ---------------
 1. Haz doble clic en «Insert Coin - Instalador X.Y.Z.exe».
