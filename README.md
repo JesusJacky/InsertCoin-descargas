@@ -14,9 +14,9 @@
 ![Windows](https://img.shields.io/badge/Windows-10_/_11-3ddc97?style=for-the-badge&labelColor=0b0618)
 ![Linux y Mac](https://img.shields.io/badge/Linux_·_Mac-prueba-9b8ec4?style=for-the-badge&labelColor=0b0618)
 
-<a href="video/Insert-Coin-promo.mp4"><img src="avance.gif" alt="Insert Coin en acción" width="900"></a>
+<a href="https://jesusjacky.github.io/InsertCoin-descargas/"><img src="avance.gif" alt="Insert Coin en acción" width="900"></a>
 
-**[▶ Ver el vídeo completo (1:32)](video/Insert-Coin-promo.mp4)**<br><sub>Música: «It Takes A Hero», de Zane Little Music (CC0)</sub>
+**[▶ Ver el vídeo completo (1:32)](https://jesusjacky.github.io/InsertCoin-descargas/)**<br><sub>Música: «It Takes A Hero», de Zane Little Music (CC0)</sub>
 
 </div>
 

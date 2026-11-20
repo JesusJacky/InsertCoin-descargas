@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Insert Coin · tu biblioteca de juegos</title>
+<meta name="description" content="Insert Coin junta todos tus juegos de Steam, Epic, GOG, EA, Ubisoft, Battle.net, Riot y más en una sola biblioteca. Gratis.">
+<link rel="icon" href="icono.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root { --fondo: #07040f; --texto: #f1ecff; --suave: #b9addb; --rosa: #ff2bd6; --cian: #4cc9f0; --amarillo: #ffe600; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: radial-gradient(1200px 600px at 50% -10%, #2a0d47 0%, var(--fondo) 60%) fixed, var(--fondo); color: var(--texto);
+    font: 400 17px/1.6 Inter, system-ui, sans-serif; }
+  .contenedor { max-width: 1040px; margin: 0 auto; padding: 32px 16px 56px; }
+  header { display: flex; align-items: center; justify-content: center; gap: 18px; text-align: center; flex-wrap: wrap; }
+  header img { width: 84px; height: 84px; image-rendering: pixelated; filter: drop-shadow(0 0 18px rgba(255,43,214,.6)); }
+  h1 { margin: 0; font: 400 clamp(26px, 5vw, 46px)/1.2 "Press Start 2P", monospace; color: var(--amarillo); text-shadow: 4px 4px 0 var(--rosa), 0 0 28px rgba(255,230,0,.35);
+    animation: parpadeo 1.1s steps(1) infinite; }
+  @keyframes parpadeo { 50% { opacity: .55; } }
+  @media (prefers-reduced-motion: reduce) { h1 { animation: none; } }
+  .lema { text-align: center; font-size: clamp(18px, 2.4vw, 22px); font-weight: 800; margin: 18px 0 6px; }
+  .tiendas { text-align: center; color: var(--suave); font-size: 14px; margin: 0 0 26px; }
+  .video { position: relative; border: 4px solid var(--rosa); box-shadow: 0 0 0 4px #000, 0 0 50px rgba(255,43,214,.45), 10px 10px 0 4px #000; background: #000; }
+  .video video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: #000; }
+  .creditos { text-align: center; font-size: 12px; color: var(--suave); margin: 10px 0 30px; }
+  .botones { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; margin: 6px 0 34px; }
+  .boton { display: inline-flex; align-items: center; gap: 10px; padding: 16px 26px; font: 400 15px/1 "Press Start 2P", monospace; text-decoration: none; color: #10051f;
+    background: var(--amarillo); box-shadow: 5px 5px 0 #000, 0 0 0 3px #000; transition: transform .1s; }
+  .boton:hover { transform: translate(-2px, -2px); box-shadow: 7px 7px 0 #000, 0 0 0 3px #000; }
+  .boton.secundario { background: var(--cian); }
+  .rejilla { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; margin-bottom: 34px; }
+  .tarjeta { border: 2px solid #3b2a63; background: rgba(20, 10, 40, .75); padding: 16px 18px; }
+  .tarjeta b { display: block; font-size: 17px; margin-bottom: 4px; }
+  .tarjeta span { color: var(--suave); font-size: 14px; }
+  .aviso { border: 2px solid var(--cian); background: rgba(76, 201, 240, .08); padding: 14px 18px; font-size: 14px; color: var(--suave); }
+  .aviso b { color: var(--texto); }
+  footer { text-align: center; color: var(--suave); font-size: 13px; margin-top: 34px; }
+  footer a, .aviso a { color: var(--cian); }
+</style>
+</head>
+<body>
+<div class="contenedor">
+  <header><img src="icono.png" alt=""><h1>INSERT COIN</h1></header>
+  <p class="lema">Todos tus juegos. Una sola biblioteca. Cero excusas para no jugar.</p>
+  <p class="tiendas">Steam · Epic Games · GOG · EA · Ubisoft · Battle.net · Riot · Amazon · itch.io · Rockstar · Xbox · Humble · Legacy Games</p>
+
+  <div class="video">
+    <video controls playsinline preload="metadata" poster="capturas/1-biblioteca.png" controlslist="nodownload noplaybackrate" disablepictureinpicture oncontextmenu="return false">
+      <source src="video/Insert-Coin-promo.mp4" type="video/mp4">
+      Tu navegador no puede reproducir el vídeo.
+    </video>
+  </div>
+  <p class="creditos">Música: «It Takes A Hero», de Zane Little Music (CC0)</p>
+
+  <div class="botones">
+    <a class="boton" href="https://github.com/JesusJacky/InsertCoin-descargas/releases/latest">⬇ Descargar gratis</a>
+    <a class="boton secundario" href="https://github.com/JesusJacky/InsertCoin-descargas">Más información</a>
+  </div>
+
+  <div class="rejilla">
+    <div class="tarjeta"><b>📚 Todo junto</b><span>Tus juegos de todas las tiendas en una sola biblioteca, con portadas, horas, logros y notas.</span></div>
+    <div class="tarjeta"><b>▶ Juega e instala</b><span>Desde la propia app, a través de la tienda oficial de cada juego.</span></div>
+    <div class="tarjeta"><b>🎲 ¿A qué juego?</b><span>Tirada del dado, test de ánimo y tu perfil de jugador.</span></div>
+    <div class="tarjeta"><b>🛋️ Modo sofá</b><span>Pantalla completa con mando y sonidos retro.</span></div>
+    <div class="tarjeta"><b>⭐ Deseados y ofertas</b><span>Te avisa si lo que quieres baja de precio o se regala.</span></div>
+    <div class="tarjeta"><b>🎨 21 estilos</b><span>Recreativa, cyberpunk, JRPG, tele de tubo… y modo ligero para PCs antiguos.</span></div>
+  </div>
+
+  <p class="aviso"><b>Gratis y en beta.</b> Windows 10/11 (64 bits); Linux y Mac en prueba. Tu biblioteca se lee en tu PC y solo leyendo: no se envían tus datos a nadie.
+    Requisitos e instrucciones en la <a href="https://github.com/JesusJacky/InsertCoin-descargas">página de descargas</a>.</p>
+
+  <footer>Un proyecto personal de JesusJacky · Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; Insert Coin no está afiliada a ninguna.<br>
+    🪙 <i>Inserta una moneda para continuar…</i></footer>
+</div>
+</body>
+</html>
