@@ -14,7 +14,9 @@
 ![Windows](https://img.shields.io/badge/Windows-10_/_11-3ddc97?style=for-the-badge&labelColor=0b0618)
 ![Linux y Mac](https://img.shields.io/badge/Linux_·_Mac-prueba-9b8ec4?style=for-the-badge&labelColor=0b0618)
 
-<img src="capturas/1-biblioteca.png" alt="La biblioteca de Insert Coin" width="900">
+<a href="video/Insert-Coin-promo.mp4"><img src="avance.gif" alt="Insert Coin en acción" width="900"></a>
+
+**[▶ Ver el vídeo completo (1:32)](video/Insert-Coin-promo.mp4)**<br><sub>Música: «It Takes A Hero», de Zane Little Music (CC0)</sub>
 
 </div>
 
@@ -75,6 +77,13 @@ Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juego
 
 Apunta los juegos que quieres y Insert Coin te avisa cuando **bajan de precio** o se pueden conseguir **gratis**. Además, cada día: los **juegos gratis** del momento en PC y los que ya tienes que están tirados de precio en otra tienda.
 
+<div align="center">
+<img src="capturas/11-deseados.png" width="49%" alt="Lista de deseados">
+<img src="capturas/12-ofertas.png" width="49%" alt="Ofertas y juegos gratis">
+</div>
+
+<sub>Precios de Steam en euros; los del resto de tiendas, en dólares (vienen de <a href="https://www.cheapshark.com">CheapShark</a>, que solo trabaja en dólares). Juegos gratis gracias a <a href="https://www.gamerpower.com">GamerPower</a>.</sub>
+
 ## 🎨 21 estilos para tu biblioteca
 
 Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana de los 90, survival horror… Cambia el aspecto entero con un clic.
@@ -102,6 +111,8 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 
 ## 💻 Requisitos
 
+### 🪟 Windows
+
 | | Mínimos | Recomendados |
 |---|---|---|
 | **Sistema** | Windows 10 (64 bits) | Windows 10 u 11 (64 bits) |
@@ -111,8 +122,30 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 | **Pantalla** | 1280 × 720 | 1920 × 1080 |
 | **Internet** | Para completar los datos de los juegos y buscar ofertas | Lo mismo |
 
+### 🐧 Linux (versión de prueba)
+
+| | Mínimos | Recomendados |
+|---|---|---|
+| **Sistema** | 64 bits (x86-64): Ubuntu 22.04, Linux Mint 21, Debian 12, Fedora 38 o similares | Ubuntu 24.04 o equivalente reciente |
+| **Procesador** | 2 núcleos (de 2010 en adelante) | 4 núcleos o más |
+| **Memoria** | 4 GB | 8 GB |
+| **Disco** | 500 MB libres | 500 MB libres en un SSD |
+| **Pantalla** | 1280 × 720 | 1920 × 1080 |
+| **Para leer tu biblioteca** | Steam instalado (por ahora solo se lee Steam) | Lo mismo |
+
+### 🍎 Mac (versión de prueba)
+
+| | Mínimos | Recomendados |
+|---|---|---|
+| **Sistema** | macOS 12 Monterey | macOS 14 Sonoma o más nuevo |
+| **Procesador** | Chip de Apple (M1 o posterior). Los Mac con procesador Intel no son compatibles | M2 o posterior |
+| **Memoria** | 8 GB | 8 GB o más |
+| **Disco** | 500 MB libres | 500 MB libres |
+| **Pantalla** | 1280 × 800 | La del propio Mac |
+| **Para leer tu biblioteca** | Steam instalado (por ahora solo se lee Steam) | Lo mismo |
+
 > En equipos justos, activa el **Modo ligero** (menú 🪙 → Ajustes); el botón **«Analizar mi equipo»** te dice si te conviene.
-> **Linux** (prueba): 64 bits, Ubuntu 22.04 o similar. **Mac** (prueba): macOS 12 o más nuevo, con chip de Apple (M1 o posterior).
+> En todos los sistemas hace falta **internet** para completar los datos de los juegos y buscar ofertas.
 
 ## ⬇️ Descargar
 

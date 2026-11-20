@@ -34,8 +34,19 @@ Mínimos:      Windows 10 de 64 bits · procesador de 2 núcleos (cualquiera de
               En equipos así, activa el «Modo ligero» (menú 🪙 → Ajustes).
 Recomendados: Windows 10 u 11 de 64 bits · procesador de 4 núcleos o más ·
               8 GB de memoria · disco SSD · pantalla de 1920×1080.
-Linux (prueba): 64 bits, Ubuntu 22.04 o similar. Mac (prueba): macOS 12 o
-              más nuevo, con chip de Apple (M1 o posterior).
+
+Linux (versión de prueba)
+Mínimos:      64 bits (Ubuntu 22.04, Linux Mint 21, Debian 12, Fedora 38 o
+              similares) · 2 núcleos · 4 GB de memoria · 500 MB libres ·
+              pantalla de 1280×720 · Steam instalado (solo se lee Steam).
+Recomendados: Ubuntu 24.04 o equivalente reciente · 4 núcleos · 8 GB ·
+              disco SSD · pantalla de 1920×1080.
+
+Mac (versión de prueba)
+Mínimos:      macOS 12 Monterey · chip de Apple (M1 o posterior; los Mac con
+              Intel no son compatibles) · 8 GB de memoria · 500 MB libres ·
+              Steam instalado (solo se lee Steam).
+Recomendados: macOS 14 Sonoma o más nuevo · chip M2 o posterior.
 
 CÓMO INSTALARLA
 ---------------

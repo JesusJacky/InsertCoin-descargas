@@ -1,5 +1,11 @@
 # Insert Coin · novedades
 
+## 0.3.1 · Barra ordenada y precios más claros (20/11/2026 · Beta)
+- **⬆️ Mejora:** **Modo sofá**: la ayuda de abajo dibuja los botones de tu mando **con sus colores**, como en el mando real (A verde, B roja, X azul, Y amarilla en Xbox; ✕ ○ □ △ en PlayStation; B A Y X en Nintendo), y dice también cómo moverse.
+- **⬆️ Mejora:** La **barra de arriba**, reorganizada en dos filas: arriba el buscador y lo de sistema (Escanear, Sugerencias, Legal y el menú 🪙); debajo, las funciones por grupos (**Descubre**: ¿Qué juego?, Tirada y Modo sofá · **Lo tuyo**: Perfil, Deseados y Ofertas · Añadir juego) y a la derecha el orden y la vista.
+- **⬆️ Mejora:** En **Deseados** y **Ofertas** se avisa de que los precios de las tiendas que no son Steam están en **dólares** (y por qué), y cada uno lleva la marca «US$». Los de Steam siguen en euros.
+- **⬆️ Mejora:** Las ofertas se buscan como mucho cada 6 horas (salvo que cambies tu lista de deseados), para no abusar del servicio que las da.
+
 ## 0.3.0 · Modo sofá, deseados y ofertas (20/11/2026 · Beta)
 - **✨ Nuevo:** **🛋️ Modo sofá**: pantalla completa para jugar desde el sofá con **mando** (Xbox, PlayStation…) o teclado. Filas de juegos, el elegido en grande con sus capturas de fondo, tirada del dado, **sonidos retro** y pantalla de «INSERT COIN» si lo dejas quieto.
 - **✨ Nuevo:** **⭐ Lista de deseados**: busca y añade los juegos que quieres; Insert Coin te dice su precio en Steam, su mejor oferta y lo más barato que ha estado.
