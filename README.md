@@ -22,6 +22,41 @@
 
 ---
 
+> **En una frase:** Insert Coin es un programa **gratuito** para Windows que junta en una sola pantalla **todos los juegos que ya tienes**
+> en Steam, Epic, GOG, EA, Ubisoft, Battle.net y demás tiendas, para que no tengas que ir abriéndolas una por una.
+
+## 🛡️ ¿Es de fiar? Lo que hace y lo que NO hace
+
+| ✅ Lo que hace | 🚫 Lo que NO hace nunca |
+|---|---|
+| **Lee** la lista de juegos que tus tiendas ya guardan en tu PC | No pide **contraseñas** ni que inicies sesión en nada |
+| Busca la portada, la nota y los datos de cada juego **por su nombre** | No **envía tus datos** a nadie: ni tu lista de juegos, ni tu nombre, ni tu correo |
+| Abre la **tienda oficial** cuando pulsas «Jugar» o «Instalar» | No **cambia nada** de tus tiendas ni de tus partidas |
+| Se **actualiza** desde esta misma página | No lleva **publicidad**, ni cuentas, ni instala otros programas |
+
+- **¿Quién está detrás?** Una persona: **JesusJacky**, que lo hace como proyecto personal. Contacto: **jesusJacky.InsertCoin@gmail.com**.
+- **¿Por qué Windows avisa al instalarlo?** Porque la app aún no tiene un **certificado de firma** (cuestan dinero cada año y
+  esto es gratuito). Windows avisa de **cualquier** programa nuevo sin firmar, no porque haya encontrado nada. Pulsa
+  «Más información» → «Ejecutar de todos modos».
+- **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
+
+<!-- NOVEDADES:INICIO -->
+## 🆕 Lo nuevo en la versión 0.3.4 · Ofertas por secciones y escaneo exprés
+
+- **✨ Nuevo:** La ventana de **🏷️ Ofertas**, renovada y por secciones: **🎁 Gratis** (juegos gratis para siempre en cualquier plataforma, con filtro), **🏷️ Ofertas** (las mejores rebajas de Steam, GOG, Humble, Fanatical, Epic… con **filtro por tienda** y orden), **📦 Bundles** (muy pronto) y **⭐ Tus deseados**.
+- **✨ Nuevo:** **Rebajas destacadas de Steam** en euros, con la cuenta atrás de cuándo terminan (ideal para las ofertas de un día o de fin de semana).
+- **✨ Nuevo:** Aviso cuando aparece en tu biblioteca un juego que tenías en tu **lista de deseados**: puedes quitarlo de la lista, o pedir que no te avise más de ese juego. Se puede apagar en 🪙 → Ajustes → Avisos.
+- **⬆️ Mejora:** El **primer escaneo** es muchísimo más rápido: el año, los géneros y el estudio de cada juego (Wikidata) se piden de 50 en 50 en vez de uno a uno. Lo que antes podía tardar más de una hora ahora son unos minutos.
+- **🔧 Arreglo:** Wikimedia frenaba a Insert Coin a 10 consultas por minuto porque no se identificaba con una web de contacto. Ahora lo hace con su página de descargas (se identifica la app, nunca a ti) y puede ir a velocidad normal.
+- **⬆️ Mejora:** Desaparece el paso «Wikipedia» del escaneo: ya no hacía falta.
+- **🔧 Arreglo:** Las **notificaciones de Windows** (versión nueva disponible, ofertas de tus deseados) no llegaban a salir en la app instalada. Ahora sí.
+- **⬆️ Mejora:** Los textos legales pasan a la versión 4: avisan de que Insert Coin está en **fase beta** y de que en el futuro sus funciones o condiciones pueden cambiar o limitarse (siempre con aviso antes). Se piden aceptar una vez más.
+- **⬆️ Mejora:** Aviso de **autoría**: en «Acerca de» y en el aviso legal consta que Insert Coin es una obra original de JesusJacky, con todos los derechos reservados.
+- **⬆️ Mejora:** Los juegos con el mismo nombre ya no se confunden al buscar su año y su estudio (por ejemplo, el God of War de 2018 ya no toma los datos del de 2005).
+
+**[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
+<!-- NOVEDADES:FIN -->
+
 ## 🕹️ ¿Qué es?
 
 ¿Cuántas tiendas de juegos tienes instaladas? ¿Cinco? ¿Seis? ¿Y cuántas veces has comprado en una oferta un juego **que ya tenías** en otra?
@@ -67,22 +102,41 @@ Unas preguntas rápidas sobre cómo estás hoy (¿cansado?, ¿con ganas de pensa
 </tr>
 </table>
 
+## 🏛️ La colección de clásicos
+
+Más de **230 juegos que hicieron historia**, de *Space Invaders* a *Baldur's Gate 3*. Los que tienes llevan la etiqueta 🏛️ y su
+**Historia**, escrita para Insert Coin: quién lo hizo, qué se atrevió a cambiar y por qué se recuerda. Si tienes un **remake** o una
+**remasterización** (*Dead Space*, *Resident Evil 4*, *Age of Empires II: Definitive Edition*…), comparte la historia del original y
+suma **la suya propia**. Y los que **te faltan** salen en tu biblioteca **apagados y sin portada**, con un 🔒, hasta que los consigues.
+¿Cuántos tienes tú?
+
+<div align="center">
+<img src="capturas/13-coleccion-clasicos.png" width="62%" alt="Colección de clásicos con los que faltan apagados">
+<img src="capturas/14-historia-remake.png" width="36%" alt="Historia del original y del remake">
+</div>
+
 ## 🛋️ Modo sofá
 
 Coge el mando, túmbate y elige desde el sofá: **pantalla completa**, tus juegos en filas («Seguir jugando», «Instalados», «Para estrenar»…), el elegido en grande con sus capturas de fondo y **sonidos retro**. Funciona con mandos de Xbox y PlayStation (o con el teclado). Y si lo dejas quieto… *INSERT COIN*.
 
 <div align="center"><img src="capturas/10-modo-sofa.png" width="900" alt="Modo sofá"></div>
 
-## ⭐ Deseados y 🏷️ ofertas
+## 🏷️ Ofertas, juegos gratis y ⭐ deseados
 
-Apunta los juegos que quieres y Insert Coin te avisa cuando **bajan de precio** o se pueden conseguir **gratis**. Además, cada día: los **juegos gratis** del momento en PC y los que ya tienes que están tirados de precio en otra tienda.
+Para el que no tiene ganas de mirar tienda por tienda: **todo en una ventana**, por secciones.
+
+- 🎁 **Gratis:** los juegos que se pueden conseguir **gratis para siempre** ahora mismo, en Steam, Epic, GOG, itch.io… (y si quieres, también en móvil y consola).
+- 🏷️ **Ofertas:** las mejores rebajas de **Steam, GOG, Humble, Fanatical, Epic, Green Man Gaming…**, con **filtro por tienda** y orden por descuento o precio.
+  Las **rebajas destacadas de Steam**, en euros y con la cuenta atrás de cuándo terminan (las de un día o de fin de semana).
+- 📦 **Bundles:** packs de varios juegos a precio de risa, con los juegos que trae cada uno *(muy pronto)*.
+- ⭐ **Tus deseados:** apunta los juegos que quieres y te avisa cuando **bajan de precio** o se **regalan**. Y si alguno aparece ya en tu biblioteca, te lo dice.
 
 <div align="center">
-<img src="capturas/11-deseados.png" width="49%" alt="Lista de deseados">
-<img src="capturas/12-ofertas.png" width="49%" alt="Ofertas y juegos gratis">
+<img src="capturas/12-ofertas.png" width="49%" alt="Ofertas de las tiendas y rebajas de Steam">
+<img src="capturas/15-gratis.png" width="49%" alt="Juegos gratis de todas las plataformas">
 </div>
 
-<sub>Precios de Steam en euros; los del resto de tiendas, en dólares (vienen de <a href="https://www.cheapshark.com">CheapShark</a>, que solo trabaja en dólares). Juegos gratis gracias a <a href="https://www.gamerpower.com">GamerPower</a>.</sub>
+<sub>Insert Coin no vende juegos ni cobra comisiones: cada oferta te lleva a su tienda. Precios de Steam en euros; los del resto de tiendas, en dólares (vienen de <a href="https://www.cheapshark.com">CheapShark</a>, que solo trabaja en dólares). Juegos gratis gracias a <a href="https://www.gamerpower.com">GamerPower</a>.</sub>
 
 ## 🎨 21 estilos para tu biblioteca
 
@@ -103,6 +157,7 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 | 🔍 **Filtros de todo tipo**: tienda, género, cooperativo, PvP, sin estrenar, nota… | ✍️ **Tu nivel y tu crítica** para cada juego |
 | 🔄 **Se actualiza sola**: tu biblioteca y la propia app | 🐢 **Modo ligero** para PCs antiguos, con **análisis de tu equipo** |
 | ➕ **Añade a mano** lo que una tienda no guarde en el PC | 📰 **Novedades** de cada versión dentro de la app |
+| 🔔 **Avisos**: versión nueva, ofertas de tus deseados y deseados que ya tienes | 🧩 **Una sola carta** aunque tengas el juego en varias tiendas |
 
 ## 🔒 Tus datos son tuyos
 
@@ -153,7 +208,7 @@ Ve a **[la última versión](../../releases/latest)** y descarga la de tu sistem
 
 | Sistema | Archivo | |
 |---|---|---|
-| 🪟 **Windows 10 / 11** (64 bits) | `Insert Coin - Instalador X.Y.Z (Windows)` | ✅ Recomendada |
+| 🪟 **Windows 10 / 11** (64 bits) | `Insert-Coin-Instalador-X.Y.Z.exe` | ✅ Recomendada |
 | 🐧 Linux | `Insert-Coin-X.Y.Z-Linux.AppImage` | 🧪 Prueba (solo lee Steam) |
 | 🍎 Mac (chip Apple) | `Insert-Coin-X.Y.Z-Mac.dmg` | 🧪 Prueba (solo lee Steam) |
 
@@ -167,6 +222,16 @@ Instrucciones completas (también Linux y Mac) en el **[LEEME](LEEME.txt)** · Q
 <details><summary><b>¿Es gratis?</b></summary>
 
 Sí. Es una **beta**: una versión de prueba, gratis, que puede tener algún fallo. Si ves uno, cuéntalo desde el botón «💬 Sugerencias» de la app.
+</details>
+
+<details><summary><b>¿Lleva virus, publicidad o algo raro?</b></summary>
+
+No. No tiene publicidad, no instala nada más, no pide permisos de administrador para funcionar y no envía tu información a nadie. Si Windows avisa al instalarlo es solo porque aún no tiene certificado de firma (mira «¿Es de fiar?», arriba).
+</details>
+
+<details><summary><b>¿Quién lo ha hecho?</b></summary>
+
+**JesusJacky**, como proyecto personal, por pura pereza de abrir seis tiendas para saber qué juegos tiene 😅. Puedes escribirle a **jesusJacky.InsertCoin@gmail.com** o desde «💬 Sugerencias» en la app.
 </details>
 
 <details><summary><b>¿Necesito una cuenta o dar mis contraseñas?</b></summary>
@@ -201,6 +266,6 @@ Sola: te avisa cuando hay versión nueva (punto amarillo en el botón 🪙) y la
 Aquí están los **instaladores** y la información pública de Insert Coin; el código de la aplicación no es público.<br>
 Insert Coin es gratis y se ofrece «tal cual». Las marcas, portadas y textos de los juegos y las tiendas son de sus dueños; Insert Coin no está afiliada a ninguna.
 
-**Un proyecto personal de JesusJacky** · 🪙 *Inserta una moneda para continuar…*
+**Un proyecto personal de JesusJacky** · © 2026 JesusJacky. Todos los derechos reservados ([LICENCIA](LICENSE)) · 🪙 *Inserta una moneda para continuar…*
 
 </div>
