@@ -2,6 +2,13 @@
 
 ## 🆕 Lo último
 
+### 0.3.5 · Recomendados para ti (21/11/2026 · Beta)
+- **✨ Nuevo:** Nueva pestaña **✨ Para ti** en Ofertas: juegos de las **sagas que ya juegas** y que aún no tienes (si tienes Dark Souls III, el resto de la saga), con los que están **en oferta** destacados arriba, y ofertas de los **géneros a los que más horas dedicas**, mezclados y distintos cada día.
+- **✨ Nuevo:** Pestaña **❓ Preguntas** en el menú 🪙: las preguntas frecuentes (¿qué gano yo?, ¿puede dar problemas con los antitrampas?, ¿ralentiza mis juegos?, ¿qué pasa si la desinstalo?…) y un enlace a todas las de la página de descargas.
+- **⬆️ Mejora:** Si tienes la remasterización de un juego, ya no se te recomienda el original (y al revés).
+
+## 📜 Versiones anteriores
+
 ### 0.3.4 · Ofertas por secciones y escaneo exprés (21/11/2026 · Beta)
 - **✨ Nuevo:** La ventana de **🏷️ Ofertas**, renovada y por secciones: **🎁 Gratis** (juegos gratis para siempre en cualquier plataforma, con filtro), **🏷️ Ofertas** (las mejores rebajas de Steam, GOG, Humble, Fanatical, Epic… con **filtro por tienda** y orden), **📦 Bundles** (muy pronto) y **⭐ Tus deseados**.
 - **✨ Nuevo:** **Rebajas destacadas de Steam** en euros, con la cuenta atrás de cuándo terminan (ideal para las ofertas de un día o de fin de semana).
@@ -13,8 +20,6 @@
 - **⬆️ Mejora:** Los textos legales pasan a la versión 4: avisan de que Insert Coin está en **fase beta** y de que en el futuro sus funciones o condiciones pueden cambiar o limitarse (siempre con aviso antes). Se piden aceptar una vez más.
 - **⬆️ Mejora:** Aviso de **autoría**: en «Acerca de» y en el aviso legal consta que Insert Coin es una obra original de JesusJacky, con todos los derechos reservados.
 - **⬆️ Mejora:** Los juegos con el mismo nombre ya no se confunden al buscar su año y su estudio (por ejemplo, el God of War de 2018 ya no toma los datos del de 2005).
-
-## 📜 Versiones anteriores
 
 ### 0.3.3 · La colección de clásicos (20/11/2026 · Beta)
 - **✨ Nuevo:** **🏛️ Colección de clásicos**: más de 230 juegos que hicieron historia, de Space Invaders a Baldur's Gate 3. Los que aún no tienes salen en tu biblioteca **apagados y sin portada**, con un 🔒; en cuanto consigas uno, aparece con su portada y su ✓. El panel dice cuántos llevas y desde la ficha puedes añadirlo a **deseados** o buscarlo en Steam.

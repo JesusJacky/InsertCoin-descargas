@@ -44,18 +44,11 @@ juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en un
 - **Está en fase beta:** funciona, pero puede tener algún fallo. Si ves uno, cuéntalo desde «💬 Sugerencias» en la propia app.
 
 <!-- NOVEDADES:INICIO -->
-## 🆕 Lo nuevo en la versión 0.3.4 · Ofertas por secciones y escaneo exprés
+## 🆕 Lo nuevo en la versión 0.3.5 · Recomendados para ti
 
-- **✨ Nuevo:** La ventana de **🏷️ Ofertas**, renovada y por secciones: **🎁 Gratis** (juegos gratis para siempre en cualquier plataforma, con filtro), **🏷️ Ofertas** (las mejores rebajas de Steam, GOG, Humble, Fanatical, Epic… con **filtro por tienda** y orden), **📦 Bundles** (muy pronto) y **⭐ Tus deseados**.
-- **✨ Nuevo:** **Rebajas destacadas de Steam** en euros, con la cuenta atrás de cuándo terminan (ideal para las ofertas de un día o de fin de semana).
-- **✨ Nuevo:** Aviso cuando aparece en tu biblioteca un juego que tenías en tu **lista de deseados**: puedes quitarlo de la lista, o pedir que no te avise más de ese juego. Se puede apagar en 🪙 → Ajustes → Avisos.
-- **⬆️ Mejora:** El **primer escaneo** es muchísimo más rápido: el año, los géneros y el estudio de cada juego (Wikidata) se piden de 50 en 50 en vez de uno a uno. Lo que antes podía tardar más de una hora ahora son unos minutos.
-- **🔧 Arreglo:** Wikimedia frenaba a Insert Coin a 10 consultas por minuto porque no se identificaba con una web de contacto. Ahora lo hace con su página de descargas (se identifica la app, nunca a ti) y puede ir a velocidad normal.
-- **⬆️ Mejora:** Desaparece el paso «Wikipedia» del escaneo: ya no hacía falta.
-- **🔧 Arreglo:** Las **notificaciones de Windows** (versión nueva disponible, ofertas de tus deseados) no llegaban a salir en la app instalada. Ahora sí.
-- **⬆️ Mejora:** Los textos legales pasan a la versión 4: avisan de que Insert Coin está en **fase beta** y de que en el futuro sus funciones o condiciones pueden cambiar o limitarse (siempre con aviso antes). Se piden aceptar una vez más.
-- **⬆️ Mejora:** Aviso de **autoría**: en «Acerca de» y en el aviso legal consta que Insert Coin es una obra original de JesusJacky, con todos los derechos reservados.
-- **⬆️ Mejora:** Los juegos con el mismo nombre ya no se confunden al buscar su año y su estudio (por ejemplo, el God of War de 2018 ya no toma los datos del de 2005).
+- **✨ Nuevo:** Nueva pestaña **✨ Para ti** en Ofertas: juegos de las **sagas que ya juegas** y que aún no tienes (si tienes Dark Souls III, el resto de la saga), con los que están **en oferta** destacados arriba, y ofertas de los **géneros a los que más horas dedicas**, mezclados y distintos cada día.
+- **✨ Nuevo:** Pestaña **❓ Preguntas** en el menú 🪙: las preguntas frecuentes (¿qué gano yo?, ¿puede dar problemas con los antitrampas?, ¿ralentiza mis juegos?, ¿qué pasa si la desinstalo?…) y un enlace a todas las de la página de descargas.
+- **⬆️ Mejora:** Si tienes la remasterización de un juego, ya no se te recomienda el original (y al revés).
 
 **[📜 Todas las novedades, versión a versión →](NOVEDADES.md)**
 <!-- NOVEDADES:FIN -->
