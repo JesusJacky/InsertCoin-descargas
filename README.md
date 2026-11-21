@@ -25,14 +25,17 @@
 > **En una frase:** Insert Coin es un programa **gratuito** para Windows que junta en una sola pantalla **todos los juegos que ya tienes**
 > en Steam, Epic, GOG, EA, Ubisoft, Battle.net y demás tiendas, para que no tengas que ir abriéndolas una por una.
 
-## 🛡️ ¿Es de fiar? Lo que hace y lo que NO hace
+## 🛡️ ¿Es de fiar?
 
-| ✅ Lo que hace | 🚫 Lo que NO hace nunca |
+**No te pide nada.** Ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. Insert Coin solo **mira la lista de
+juegos** que Steam, Epic, GOG y compañía ya guardan en tu PC, y la junta en una sola pantalla.
+
+| ✅ Lo que hace | 🚫 Lo que no hace |
 |---|---|
-| **Lee** la lista de juegos que tus tiendas ya guardan en tu PC | No pide **contraseñas** ni que inicies sesión en nada |
-| Busca la portada, la nota y los datos de cada juego **por su nombre** | No **envía tus datos** a nadie: ni tu lista de juegos, ni tu nombre, ni tu correo |
-| Abre la **tienda oficial** cuando pulsas «Jugar» o «Instalar» | No **cambia nada** de tus tiendas ni de tus partidas |
-| Se **actualiza** desde esta misma página | No lleva **publicidad**, ni cuentas, ni instala otros programas |
+| Mira la lista de juegos que tus tiendas ya guardan en tu PC | No toca tus tiendas, tus juegos ni tus partidas: solo mira |
+| Busca la portada, el año y la nota de cada juego **por su nombre** | No se mete en tus juegos mientras juegas (nada que pueda molestar a los antitrampas) |
+| Abre la **tienda oficial** cuando pulsas «Jugar» o «Instalar» | No lleva publicidad ni instala otros programas |
+| Se actualiza sola desde esta misma página | No hace falta tenerlo abierto para jugar |
 
 - **¿Quién está detrás?** Una persona: **JesusJacky**, que lo hace como proyecto personal. Contacto: **jesusJacky.InsertCoin@gmail.com**.
 - **¿Por qué Windows avisa al instalarlo?** Porque la app aún no tiene un **certificado de firma** (cuestan dinero cada año y
@@ -162,7 +165,7 @@ Recreativa de neón, cyberpunk, JRPG por turnos, tele de tubo, terminal, ventana
 ## 🔒 Tus datos son tuyos
 
 - Tu biblioteca se lee **en tu PC y solo leyendo**: Insert Coin **nunca cambia nada** de tus launchers.
-- **Sin cuentas, sin publicidad, sin analítica.** No se envían tus datos a nadie: para completar cada juego solo se consulta su nombre en servicios públicos (tienda de Steam, Wikipedia, Wikidata…).
+- **Sin cuentas, sin publicidad, sin analítica.** Para completar cada juego solo se pregunta su nombre a servicios públicos (tienda de Steam, Wikidata…), sin nada que te identifique.
 
 ## 💻 Requisitos
 
@@ -219,24 +222,29 @@ Instrucciones completas (también Linux y Mac) en el **[LEEME](LEEME.txt)** · Q
 
 ## ❓ Preguntas frecuentes
 
+<details><summary><b>¿Qué gano yo usando Insert Coin?</b></summary>
+
+Ver **todos tus juegos juntos** sin abrir seis tiendas, no volver a comprar algo que **ya tenías** en otra, redescubrir lo que compraste y **nunca estrenaste**, tener los juegos gratis y las ofertas en un solo sitio, y que el dado o el test te ayuden a decidir a qué jugar.
+</details>
+
 <details><summary><b>¿Es gratis?</b></summary>
 
 Sí. Es una **beta**: una versión de prueba, gratis, que puede tener algún fallo. Si ves uno, cuéntalo desde el botón «💬 Sugerencias» de la app.
 </details>
 
-<details><summary><b>¿Lleva virus, publicidad o algo raro?</b></summary>
-
-No. No tiene publicidad, no instala nada más, no pide permisos de administrador para funcionar y no envía tu información a nadie. Si Windows avisa al instalarlo es solo porque aún no tiene certificado de firma (mira «¿Es de fiar?», arriba).
-</details>
-
-<details><summary><b>¿Quién lo ha hecho?</b></summary>
-
-**JesusJacky**, como proyecto personal, por pura pereza de abrir seis tiendas para saber qué juegos tiene 😅. Puedes escribirle a **jesusJacky.InsertCoin@gmail.com** o desde «💬 Sugerencias» en la app.
-</details>
-
 <details><summary><b>¿Necesito una cuenta o dar mis contraseñas?</b></summary>
 
-No. Insert Coin no pide cuentas ni contraseñas: lee lo que tus launchers ya guardan en tu PC.
+No. Insert Coin no te pide nada: ni cuentas, ni contraseñas, ni correo, ni iniciar sesión en tus tiendas. Mira la lista de juegos que tus tiendas ya guardan en tu PC.
+</details>
+
+<details><summary><b>¿Qué sale de mi PC?</b></summary>
+
+Para completar cada juego (portada, año, nota…) pregunta **por su nombre** a servicios públicos como la tienda de Steam o Wikidata. Lo único más es lo que tú escribas en «💬 Sugerencias», que llega sin tu nombre ni tu correo.
+</details>
+
+<details><summary><b>¿Puede darme problemas con los antitrampas (Vanguard, Easy Anti-Cheat…)?</b></summary>
+
+No debería: Insert Coin **no se mete en los juegos**. No lee su memoria, no pone nada encima de la pantalla del juego y no instala controladores. Solo lee los archivos donde las tiendas apuntan qué tienes y, para jugar, se lo pide a la tienda oficial, igual que otros programas de biblioteca conocidos.
 </details>
 
 <details><summary><b>¿Puede romper algo de mis tiendas o de mis juegos?</b></summary>
@@ -244,9 +252,19 @@ No. Insert Coin no pide cuentas ni contraseñas: lee lo que tus launchers ya gua
 No. Solo **lee** sus archivos, nunca los cambia. Y para jugar o instalar, se lo pide a la propia tienda con sus enlaces oficiales.
 </details>
 
-<details><summary><b>¿Por qué falta algún juego?</b></summary>
+<details><summary><b>¿Ralentiza mis juegos?</b></summary>
 
-Algunas tiendas no guardan en el PC todo lo que tienes comprado (Epic, Battle.net o Xbox, por ejemplo). Los que falten se pueden **añadir a mano** y los que sobren, **ocultar**.
+Mientras está abierta, revisa tu biblioteca al arrancar y cada hora, en segundo plano. Para jugar **no hace falta tenerla abierta**: si quieres el PC al 100 %, ciérrala. En equipos justos, activa el **Modo ligero** (menú 🪙 → Ajustes).
+</details>
+
+<details><summary><b>¿Funciona sin internet?</b></summary>
+
+Sí: tu biblioteca, tus horas y todo lo ya descargado se ven sin conexión. Internet hace falta para completar juegos nuevos, buscar ofertas y actualizarse.
+</details>
+
+<details><summary><b>¿Por qué falta algún juego o no salen sus horas?</b></summary>
+
+Algunas tiendas no guardan en el PC todo lo que tienes comprado (Epic, Battle.net o Xbox, por ejemplo) y otras no guardan las horas (Epic). Los que falten se pueden **añadir a mano** y los que sobren, **ocultar**.
 </details>
 
 <details><summary><b>¿Funciona en un PC antiguo?</b></summary>
@@ -254,9 +272,24 @@ Algunas tiendas no guardan en el PC todo lo que tienes comprado (Epic, Battle.ne
 Sí, desde un **Intel Core i3 de 1.ª generación con 4 GB** de memoria, con **Windows 10 u 11 de 64 bits** (mira los requisitos). En equipos modestos activa el **Modo ligero** (menú 🪙 → Ajustes): quita solo los efectos que más cargan. El botón «Analizar mi equipo» te dice si te conviene; en PCs muy justos se activa solo.
 </details>
 
+<details><summary><b>¿Dónde se guardan mis cosas y qué pasa si la desinstalo?</b></summary>
+
+Tus niveles, críticas, deseados y ajustes se guardan solo en tu PC. Si la desinstalas, se quedan guardados por si vuelves; para borrarlos del todo, elimina la carpeta `%APPDATA%\Insert Coin`.
+</details>
+
 <details><summary><b>¿Cómo se actualiza?</b></summary>
 
 Sola: te avisa cuando hay versión nueva (punto amarillo en el botón 🪙) y la instalas con un clic. Tu biblioteca y tus ajustes se quedan como están.
+</details>
+
+<details><summary><b>¿Lleva virus, publicidad o algo raro?</b></summary>
+
+No. No tiene publicidad, no instala nada más y no necesita permisos de administrador para funcionar. Si Windows avisa al instalarlo es solo porque aún no tiene certificado de firma (mira «¿Es de fiar?», arriba).
+</details>
+
+<details><summary><b>¿Quién lo ha hecho?</b></summary>
+
+**JesusJacky**, como proyecto personal, por pura pereza de abrir seis tiendas para saber qué juegos tiene 😅. Puedes escribirle a **jesusJacky.InsertCoin@gmail.com** o desde «💬 Sugerencias» en la app.
 </details>
 
 ---
